@@ -86,3 +86,11 @@ section {
   border: 1px solid;
   border-color: #a0a0a0;
 }
+.search-button {
+  background-color: #a0a0a0;
+  text: #ffffff;
+  width: 100px;
+  height: 30px;
+  border: 0;
+  padding: 0;
+}
