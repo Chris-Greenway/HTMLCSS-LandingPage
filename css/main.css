@@ -234,8 +234,8 @@ section {
 }
 .full-banner-sidebar h4:after {
   content: "";
-  width: 100x1;
-  height: 100x1;
+  width: 100x1px;
+  height: 100x1px;
   background-color: #faa541;
   margin: 20px auto;
   display: block;
