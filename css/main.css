@@ -285,3 +285,9 @@ footer:after {
   font-weight: 700;
   margin-bottom: 15px;
 }
+footer a {
+  font-style: white;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-decoration: hover underline;
+}
