@@ -72,6 +72,6 @@ section {
 .brand {
   width: 170;
   height: 85;
-  margin-left: -15;
-  margin-right: 60;
+  margin-left: -15px;
+  margin-right: 60px;
 }
