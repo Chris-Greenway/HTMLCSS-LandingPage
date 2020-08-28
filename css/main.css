@@ -99,3 +99,8 @@ section {
   width: 575px;
   margin-top: 10px;
 }
+.nav-list li a {
+  font-size: uppercase 16px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
