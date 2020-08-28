@@ -215,6 +215,6 @@ section {
   display: flex;
   flex: 0 0 58.333333%;
   background-image: url('../img/vista.jpg');
-  background-position: top center;
+  background-position: cover top center;
   min-height: 400px;
 }
