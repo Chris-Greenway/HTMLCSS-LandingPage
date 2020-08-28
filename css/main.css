@@ -286,8 +286,11 @@ footer:after {
   margin-bottom: 15px;
 }
 footer a {
-  font-style: white;
+color: #ffffff;
   text-transform: uppercase;
   font-size: 12px;
-  text-decoration: hover underline;
+  padding: 0 0 4px;
+}
+footer a:hover {
+  text-decoration: underline;
 }
